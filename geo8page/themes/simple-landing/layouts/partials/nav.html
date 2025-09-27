@@ -1,0 +1,10 @@
+<nav class="fixed w-full bg-white shadow z-50">
+  <div class="max-w-6xl mx-auto flex justify-between items-center p-4">
+    <div class="font-bold text-xl">{{ .Site.Title }}</div>
+    <div class="space-x-6">
+      {{ range .Site.Params.sections }}
+        <a href="#{{ . }}" class="hover:text-blue-600 capitalize">{{ . }}</a>
+      {{ end }}
+    </div>
+  </div>
+</nav>

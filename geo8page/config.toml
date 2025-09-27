@@ -1,0 +1,8 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Your Business"
+theme = "simple-landing"
+
+[params]
+  logo = "images/placeholder.png"
+  sections = ["products", "ideas", "about", "contact"]
