@@ -2,6 +2,6 @@
 title: "Welcome to Our Space"
 ---
 
-![Animated placeholder](static/images/planet.png)
+![Animated placeholder](./images/planet.gif)
 
 High professional standards. Fairness. Transparency. Curiosity.
