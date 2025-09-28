@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://gobarules.github.io/geo8page/"
 languageCode = "en-us"
 title = "Testing page"
 theme = "simple-landing"
